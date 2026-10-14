@@ -1,0 +1,1 @@
+{"description":"Web proxy that gives the AshOS browser app real internet access","engines":{"node":">=18"},"main":"server.js","name":"ashos-proxy","scripts":{"start":"node server.js"},"version":"1.0.0"}
